@@ -1,0 +1,16 @@
+{
+  "name": "tdd-by-example",
+  "version": "1.0.0",
+  "description": "This repository will follow the code examples from the book Test Driven Development - By Example written by Kent Beck.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx tsx --test **/*.spec.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "20.11.19",
+    "tsx": "4.7.1"
+  }
+}
